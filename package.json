@@ -1,0 +1,24 @@
+{
+  "name": "prospect-intelli-b2b",
+  "version": "1.0.0",
+  "description": "Pipeline de Prospecção Inteligente B2B com Gemini AI",
+  "type": "module",
+  "main": "index.tsx",
+  "dependencies": {
+    "@google/genai": "^1.34.0",
+    "lucide-react": "^0.454.0",
+    "react": "^19.2.3",
+    "react-dom": "^19.2.3"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^5.1.2",
+    "tailwindcss": "^3.4.0",
+    "typescript": "^5.0.0",
+    "vite": "^5.0.0"
+  },
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "preview": "vite preview"
+  }
+}

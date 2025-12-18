@@ -1,0 +1,5 @@
+{
+  "name": "B2B Intelligent Prospecting Pipeline",
+  "description": "An automated B2B lead generation tool that uses AI to discover, enrich, and validate business leads from search data, exporting clean CSV data.",
+  "requestFramePermissions": []
+}
